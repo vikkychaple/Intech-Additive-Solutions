@@ -1,0 +1,8 @@
+Explain a piece of code that you wrote which you are proud of? 
+If you have not written any code, please write your favorite subject in engineering studies. 
+We can go deep into that subject. 
+Ans-
+“Java” is my favorite subject in engineering because it helps me think 
+ logically and understand how software works at a deeper level. 
+ I enjoy learning about data structures, algorithms and java handles memory management compared to other languages. 
+ I look forward to applying my java skills to real-world projects in the future. 
